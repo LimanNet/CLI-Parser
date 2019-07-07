@@ -1,7 +1,9 @@
 # CLI Parser
 
 php bin/cli.php help
+
 php bin/cli.php parse url
+
 php bin/cli.php report url
 
 Command         Description
