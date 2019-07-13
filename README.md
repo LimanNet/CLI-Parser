@@ -1,4 +1,6 @@
 # CLI Parser
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLimanNet%2FCLI-Parser.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FLimanNet%2FCLI-Parser?ref=badge_shield)
+
 
 php bin/cli.php help
 
@@ -13,3 +15,7 @@ parse url       - запускает парсер, принимает обяза
 report url      - выводит в консоль результаты анализа для домена, принимает обязательный параметр domain (как с протоколом, так и без).
 
 help            - выводит список команд с пояснениями.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLimanNet%2FCLI-Parser.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLimanNet%2FCLI-Parser?ref=badge_large)
