@@ -1,5 +1,8 @@
 # CLI Parser
 
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLimanNet%2FCLI-Parser.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FLimanNet%2FCLI-Parser?ref=badge_shield)
+
+
 Parser CLI is a PHP command line interface library meant to provide a full set of functionality with a clean and simple api.
 
 Installation
